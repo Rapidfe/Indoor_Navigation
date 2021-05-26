@@ -2,4 +2,4 @@
 
 ### Tech
 
-- Image Detection  Q-Learning  Pedestrian Dead Reckoning (PDR)
+- Image Detection   Q-Learning   Pedestrian Dead Reckoning (PDR)
