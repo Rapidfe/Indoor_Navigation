@@ -4,15 +4,11 @@
 
 Develop an Indoor Navigation algorithm without using external infra.
 
-　
-
 ### Objective
 
 - On a 3 story grid-map, detect path coordinates and search the shortest path.
 - Visualize the searching process on a 3 story LED-array. 
 - Track the user's moving path with Inertia Measurement Unit(IMU).
-
-　
 
 ### Tech
 
@@ -22,23 +18,17 @@ Develop an Indoor Navigation algorithm without using external infra.
 
 *PDR process is not uploaded here because it is included in other paper.
 
-　
-
 ### Language
 
 - Python
 - C (Arduino)
 - MATLAB
 
-　
-
 ### My task
 
 - Image Detection
 - Serial communication between Raspberry Pi and Arduino
 - Combining whole process code
-
-　
 
 ### Result
 
