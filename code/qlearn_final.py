@@ -7,7 +7,7 @@ import time
 import threading
 from PIL import Image
 
-sending = 1
+sending = 0
 fileName1 = "map1"
 fileName2 = "map2"
 fileName3 = "map3"
