@@ -32,7 +32,7 @@ Develop an Indoor Navigation algorithm without using external infra.
 
 ### Result
 
-Visualized path searching video : https://youtu.be/wfKe0n6PyxQ
+Visualized path searching video : https://youtu.be/nz1zmrCpVRI
 
 Path searching result image :
 
