@@ -32,11 +32,11 @@ Develop an Indoor Navigation algorithm without using external infra.
 
 ### Result
 
-- Path searching result image :
+- Path searching result :
 
 ![result1](./path.PNG)
 
-- PDR result image : 
+- PDR result : 
 
 ![result2](./pdr.jpg)
 
