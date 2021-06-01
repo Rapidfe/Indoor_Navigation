@@ -12,7 +12,7 @@ Develop an Indoor Navigation algorithm without using external infra.
 
 ### Tech
 
-- Image Detection
+- Image Processing
 - Q-Learning
 - Pedestrian Dead Reckoning (PDR)
 
@@ -26,27 +26,27 @@ Develop an Indoor Navigation algorithm without using external infra.
 
 ### My task
 
-- Image Detection
+- Image Processing
 - Serial communication between Raspberry Pi and Arduino
 - Combining whole process code
 
 ### Result
 
-Visualized path searching video : https://youtu.be/nz1zmrCpVRI
-
-Path searching result image :
+- Path searching result image :
 
 ![result1](./path.PNG)
 
-PDR result image : 
+- PDR result image : 
 
-![result1](./pdr.jpg)
+![result2](./pdr.jpg)
+
+- Visualized path searching video : https://youtu.be/nz1zmrCpVRI
 
 　
 
 ### 세부 내용
 
-- Image Detection 은 Pillow 라이브러리를 사용하여 다음 과정을 따라 진행된다.
+- 경로 좌표 추출은 Pillow 라이브러리를 사용하여 다음 과정을 따라 진행된다.
 
   - Threshold 값을 기준으로 이미지 이진화
 
